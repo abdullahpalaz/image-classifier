@@ -16,33 +16,3 @@ REMOVED IMAGES:
 
 Note: You might use only the classes mentioned in report or all of the dataset. Results
 wont change since code uses classes with at least 300 images.
-
-
-Necessary file hierarcy:
-
-+-- Image Classifier.ipynb  
-+-- dataset  
-|   +-- class-1  
-|       +-- image-1  
-|       +-- image-2  
-|       +-- ...  
-|       +-- image-(n-1)  
-|       +-- image-n  
-|   +-- class-2  
-|       +-- image-1  
-|       +-- image-2  
-|       +-- ...  
-|       +-- image-(n-1)  
-|       +-- image-n  
-|   +-- ...  
-|       +-- image-1  
-|       +-- image-2  
-|       +-- ...  
-|       +-- image-(n-1)  
-|       +-- image-n  
-|   +-- class-n  
-|       +-- image-1  
-|       +-- image-2  
-|       +-- ...  
-|       +-- image-(n-1)  
-|       +-- image-n  
