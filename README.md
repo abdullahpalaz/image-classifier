@@ -1,4 +1,4 @@
-## Image Classifier
+# Image Classifier
 
 This assignment is done for Introduction to Computer Vision class.  
 
